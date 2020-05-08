@@ -1,4 +1,6 @@
 import React, {useEffect} from 'react'
+import lodash from 'lodash'
+import moment from 'moment'
 import '../mock'
 import './App.css'
 
@@ -9,6 +11,7 @@ console.log({
 
 function App() {
   useEffect( () => {
+
       const getInitData = async () => {
           try {
               console.log('before fetch')
