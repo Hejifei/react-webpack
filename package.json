@@ -9,7 +9,7 @@
     "customize-cra": "^0.9.1",
     "fetch-mock": "^9.5.0",
     "http-proxy-middleware": "^1.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mockjs": "^1.1.0",
     "moment": "^2.25.3",
     "react": "^16.13.1",
